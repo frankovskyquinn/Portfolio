@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### About 
 
-My name is Quinn Frankovsky and I am a recent graduate from Macalester College. I received my bachelors in Geography and Data Science. I was born in Boulder, CO and played soccer on the Macalester Men's Soccer Varisty team. I was a teacher assistant for several classes in the Geography Department at Mac, and I will be working as a Geospatial Intern for Traveler's Insurance in the Summer of 2022. I appreicate the breadth of analysis that GIS and other geospatial softwares provide.  
+My name is Quinn Frankovsky and I am a recent graduate from Macalester College. I received my bachelors in Geography and Data Science. I grew up in Boulder, CO and played soccer on the Macalester Men's Soccer Varisty team. I was a teacher assistant for several classes in the Geography Department at Mac, and I will be working as a Geospatial Intern for Traveler's Insurance in the Summer of 2022. I appreicate the breadth of analysis that GIS and other geospatial softwares provide. I am excited to apply my geospatial and data analysis to my future professional pursuits. 
 
 ![](Frankovsky_Quinn.jpg)
 
