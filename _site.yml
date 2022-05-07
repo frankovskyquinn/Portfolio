@@ -1,0 +1,12 @@
+name: "website"
+title: "Quinn Frankovsky's Portfolio"
+description: |
+  Projects and Contact Information
+output_dir: "_site"
+navbar:
+  right:
+    - text: "About"
+      href: index.html
+    - icon: fa fa-linkedin
+      href: https://www.linkedin.com/in/quinn-frankovsky-621616200/
+output: distill::distill_article
